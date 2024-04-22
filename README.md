@@ -1,2 +1,5 @@
 # Image_classificaiton_fruit-and-Vegitable
-using cnn model
+--> Using CNN Model
+
+Data Set Used is :-  https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition.
+
